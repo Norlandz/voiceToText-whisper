@@ -1,0 +1,9 @@
+.venv
+venv
+
+assets/_private
+
+pathTest.py
+print_attributes.py
+
+*.ntt
