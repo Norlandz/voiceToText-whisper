@@ -3,6 +3,9 @@ venv
 
 assets/_private
 
+data
+model
+
 pathTest.py
 print_attributes.py
 
